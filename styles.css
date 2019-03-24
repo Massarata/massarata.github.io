@@ -1,8 +1,21 @@
 body {
   margin-left: 200px;
-  background-color:pink
-  
+  background-color:palegoldenrod
 }
+  .p1{
+    color:white(226, 238, 233)
+  }
+  .p2{
+    color:chocolate
+  }.p3{
+    color:white
+  }.p4{
+    color:chocolate
+  }.p5{
+    color:white
+  }
+  
+
 
 ul.navbar {
   position: absolute;
@@ -27,5 +40,5 @@ ul.navbar li {
   }
   
   a:visited {
-    color: white;
+    color:white;
   }
